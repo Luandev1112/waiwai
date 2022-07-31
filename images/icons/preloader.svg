@@ -1,0 +1,6 @@
+<svg width="200px"  height="200px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-disqus" style="background: none;">
+    <path ng-attr-d="{{config.d}}" ng-attr-stroke-width="{{config.width}}" ng-attr-stroke="{{config.stroke}}" fill="none" d="M59.6 50A9.600000000000001 9.600000000000001 0 1 1 42.060026486964205 44.60399957261955 L41.51471862576143 41.51471862576143 L44.60399957261954 42.060026486964205 A9.600000000000001 9.600000000000001 0 0 1 59.6 50" stroke-width="1" stroke="#25baa9"></path>
+    <circle cx="50" cy="50" ng-attr-r="{{config.radius2}}" ng-attr-stroke-width="{{config.width}}" ng-attr-stroke="{{config.stroke}}" ng-attr-stroke-dasharray="{{config.dasharray}}" fill="none" stroke-linecap="round" r="4.8" stroke-width="1" stroke="#25baa9" stroke-dasharray="7.5398223686155035 7.5398223686155035" transform="rotate(300 50 50)">
+      <animateTransform attributeName="transform" type="rotate" calcMode="linear" values="0 50 50;360 50 50" keyTimes="0;1" dur="1.5s" begin="0s" repeatCount="indefinite"></animateTransform>
+    </circle>
+  </svg>

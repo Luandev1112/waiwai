@@ -1,0 +1,589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Consultox version 1.0\n"
+"POT-Creation-Date: 2018-03-08 12:23+0500\n"
+"PO-Revision-Date: 2018-03-08 12:24+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Theme Arc <themearctf@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\test_work\\consultox\\wp-content"
+"\\themes\\consultox\n"
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/404.php:13
+msgid "Go to home page"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/blog.php:11
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/shortcodes/blog_grid.php:27
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/single.php:73
+msgid "By:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/blog.php:20
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/shortcodes/blog_grid.php:35
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/shortcodes/latest_news.php:35
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/shortcodes/services.php:22
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/shortcodes/services_offer.php:27
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/shortcodes/welcome_services.php:28
+msgid "Read more"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/comments.php:37
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:31
+msgid "Main Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:63
+msgid "Default Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:65
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:84
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:72
+msgid "Footer Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:74
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:82
+msgid "Blog Listing"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:171
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:172
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:173
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:174
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/functions.php:175
+msgid "on"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:31
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:65
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:143
+msgid "All Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:55
+msgid "No Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:120
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:168
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:169
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:170
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:171
+msgid "Archive for "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:172
+msgid "Search Results for "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:173
+msgid "404 - Not Found"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:191
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:218
+msgid "You must agreed the policy"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:228
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:232
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:248
+msgid "commenter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:259
+msgid "Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:292
+msgid "Your Name"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:293
+msgid "Enter Your Email"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:294
+msgid "Enter a Subject"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:296
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:308
+msgid "Your Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:311
+msgid "Your email address will not be published."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:316
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:317
+msgid "Cancel reply"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:318
+msgid "Add Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:342
+msgid "Leave a Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:603
+msgid "Poor"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:603
+msgid "Satisfactory"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:603
+msgid "Good"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:603
+msgid "Better"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:603
+msgid "Awesome"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:625
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:665
+msgid "Loading..."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/functions.php:714
+msgid "logo"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:10
+msgid "Consultox Recent News"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:10
+msgid "Show the recent news sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:50
+msgid "Recent News"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:55
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:457
+msgid "Title: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:59
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:137
+msgid "No. of Posts:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:64
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:142
+msgid "Category"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:94
+msgid "Consultox Services Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:94
+msgid "Show services menu in sidebar."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:167
+msgid "Consultox Our Brochures"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:167
+msgid "Show the info Our Brochures"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:184
+msgid "Download Pdf."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:191
+msgid "Download Doc."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:217
+msgid "Our Brochures"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:223
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:296
+msgid "Title:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:227
+msgid "PDF Link:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:228
+msgid "PDF link here"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:231
+msgid "Work Doc Link:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:232
+msgid "Word link here"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:247
+msgid "Consultox Get In Touch"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:247
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:321
+msgid "Show the information about company"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:263
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:300
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:374
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/shortcodes/contact_us.php:22
+msgid "Phone:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:264
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:304
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:378
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/shortcodes/contact_us.php:23
+msgid "Email:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:297
+msgid "Title"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:301
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:375
+msgid "Phone"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:305
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:379
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:321
+msgid "Consultox About Us"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:370
+msgid "Logo Image:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:371
+msgid "logo link here"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:382
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/shortcodes/contact_us.php:21
+msgid "Address:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:383
+msgid "Address"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:397
+msgid "Consultox NewsLetter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:397
+msgid "Show the Newsletter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:417
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/tpl-coming_soon.php:24
+msgid "Enter your email address"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:450
+msgid "Newsletter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:461
+msgid "Content:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:465
+msgid "Newsletter ID: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/library/widgets.php:469
+msgid "Show Social Icons:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/loader.php:152
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/loader.php:153
+msgid "Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v1.php:58
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v1.php:60
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v2.php:13
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v2.php:15
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v2.php:116
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v2.php:118
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v3.php:46
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v3.php:48
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v3.php:146
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v3.php:148
+msgid "Arctica"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v2.php:40
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/modules/header_v3.php:132
+msgid "Request a Call back"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:610
+msgid "Update Required"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:914
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2620
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3667
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1021
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1021
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1024
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1024
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2429
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2479
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2569
+msgid "unknown"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2620
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2771
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2995
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3021
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3039
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/plugins.php:63
+msgid "Theme Support (Required)"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/plugins.php:74
+msgid "Revolution Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/plugins.php:85
+msgid "KingComposer"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/thirdparty/tgm-plugin-activation/plugins.php:90
+msgid "Contact Form 7"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/vc_map.php:6
+msgid "bbPress Forums"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/vc_map.php:9
+msgid "Jollyall"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/vc_map.php:16
+msgid "Forum"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/vc_map.php:177
+msgid "Container"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/includes/vc_map.php:180
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/index.php:29
+msgid "Our Blog"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/search.php:67
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/searchform.php:5
+msgid "Enter Search Keywords"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/searchform2.php:3
+msgid "Search Here"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/searchform3.php:4
+msgid "Search Your Answer"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/sidebar.php:15
+msgid "by : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/sidebar.php:17
+msgid "in : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/sidebar.php:31
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/single-bunch_projects.php:42
+msgid "Customer :"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/single-bunch_projects.php:43
+msgid "Category :"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/single-bunch_projects.php:44
+msgid "Date :"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/single-bunch_projects.php:49
+msgid "Status :"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/single-bunch_projects.php:50
+msgid "Live demo :"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/single-bunch_projects.php:51
+msgid "Tags :"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/single-bunch_projects.php:62
+msgid "Project Description"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/single.php:82
+msgid "Pages: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\consultox\wp-content\themes\consultox/tpl-coming_soon.php:25
+msgid "Submit now"
+msgstr ""

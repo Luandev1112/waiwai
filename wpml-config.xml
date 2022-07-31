@@ -1,0 +1,31 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">_bunch_seo_settings</custom-field>			
+        <custom-field action="copy">_bunch_layout_settings</custom-field>			
+        <custom-field action="copy">_bunch_header_settings</custom-field>			
+        <custom-field action="copy">_bunch_post_settings</custom-field>			
+        <custom-field action="copy">_bunch_page_settings</custom-field>			
+        <custom-field action="copy">_bunch_bunch_team_settings</custom-field>			
+        <custom-field action="copy">_bunch_bunch_testimonials_settings</custom-field>
+		<custom-field action="copy">_bunch_bunch_projects_settings</custom-field>
+		<custom-field action="copy">_bunch_bunch_services_settings</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="consultox_theme_options">
+            <key name="copyright_text" />
+			<key name="_seo_home_meta_title" />
+			<key name="_seo_home_meta_description" />
+			<key name="_seo_home_meta_keywords" />
+			<key name="_seo_archive_meta_title" />
+			<key name="_seo_archive_meta_description" />
+			<key name="_seo_archive_meta_keywords" />
+			<key name="_wp_login_page_title" />
+			<key name="powerful_skills" />
+			<key name="search_page_title" />
+			<key name="archive_page_title" />
+			<key name="author_page_title" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
